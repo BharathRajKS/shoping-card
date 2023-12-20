@@ -1,0 +1,65 @@
+
+
+body{
+    background-color: #7b67c3 ; 
+    font-family: 'Varela Round', sans-serif;
+    
+}
+
+.head {
+    color: rgb(255,255,255);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    font-size: 20px;
+    
+}
+.cart1 {
+   
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color:  rgb(255,255,255);
+    font-size: 17px;
+
+    
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(255,255,255);
+    padding: 10% 10%;
+    margin: 0% 20%;
+
+}
+#productForm{
+   font-size:  17px;
+   gap: 20px;
+   
+}
+
+/* .buttons{
+    
+    background-color: aliceblue;
+}
+.column2{
+    font-size: 17px;
+}
+.column2 div{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+.column2 textarea{
+    margin-left: 20px;
+    padding: 20px;
+} */
+
+
+
+
+
+
+
